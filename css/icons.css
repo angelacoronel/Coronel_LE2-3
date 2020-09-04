@@ -92,14 +92,35 @@
 .r3-circle{
     position: absolute;
     display: flex;
-    align-items: center;
     justify-content: center;
     height: 230px;
     width: 230px;
     border-radius: 50%;
     border: 5px solid white;
-    background-image: url("../images/icon3.png");
-    background-size: 90%;
-    background-repeat: no-repeat;
-    background-position: center;
 }
+.r3-box{
+    position: absolute;
+    border-top: 90px solid #0f770f;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    height: 0px;
+    width: 80px;
+    transform: translate(0px, 10px);
+}
+.r3-box2{
+    position: absolute;
+    background-color: #0f770f;
+    border-radius: 10%;
+    height: 10px;
+    width: 100px;
+    transform: translate(0px, -45px);
+}
+.r3-box3{
+    position: absolute;
+    border: 5px solid #0f770f;
+    border-radius: 10%;
+    height: 10px;
+    width: 40px;
+    transform: translate(0px, -53px);
+}
+

@@ -31,7 +31,7 @@
     position: absolute;
     height: 1px;
     width: 50px;
-    background-color:white;
+    background-color:000;
     height: 6px;
     transform: translate(0px, -10px);
 }

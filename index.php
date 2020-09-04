@@ -201,7 +201,7 @@
          <!--footer-->
          <div class="footer">
              <div class="footer-container">
-                <a href="https://github.com/angelacoronel/Coronel_LE2-3">© Github</a>
+                <a href="https://github.com/angelacoronel/Coronel_LE2-3" target="blank">© Github</a>
              </div>
          </div>
     </body>

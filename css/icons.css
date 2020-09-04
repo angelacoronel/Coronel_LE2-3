@@ -23,7 +23,9 @@
     height: 130px;
     width: 130px;
     border-radius: 50%;
+    color: 000;
     border: 5px solid gold;
+    background-color: gold;
 }
 .peso{
     position: absolute;

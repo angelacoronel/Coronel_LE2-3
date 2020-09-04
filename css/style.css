@@ -9,8 +9,10 @@ body {
 .row, .col{
     display: flex;
 }
-nav a{
+a{
     text-decoration: none;
+}
+nav a{
     color: white;
 }
 nav{

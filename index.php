@@ -79,6 +79,10 @@
                     <div class="r2">
                         <div class="icon">
                             <div class="r2-circle">
+                                <div class="r2-sm-circle"></div>
+                                <div class="r2-sm-circle2"></div>
+                                <div class="r2-square"></div>
+                                <div class="r2-square2"></div>
                             </div>
                         </div>
                         <div class="title">

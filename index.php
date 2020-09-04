@@ -182,7 +182,6 @@
 
         <!--section5-->
         <div class="section5 row">
-            <div class="t1"></div>
             <div class="s5-container col">
                 <div class="section5-header">
                     <h1><i>Want to avail our services?</i></h1>

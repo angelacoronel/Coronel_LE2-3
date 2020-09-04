@@ -201,7 +201,7 @@
          <!--footer-->
          <div class="footer">
              <div class="footer-container">
-                © September 2020
+                <a href="https://github.com/angelacoronel/Coronel_LE2-3">© Github</a>
              </div>
          </div>
     </body>

@@ -62,7 +62,7 @@
         <div class="section2 row center">
             <div class="section2-container stretch col">
                 <div class="section2-header">
-                    <h2><i>Why go into 3D Printing?</i></h2>
+                    <h2><i>Why go into Additive Manufacturing?</i></h2>
                 </div>
                 <div class="section2-icons row stretch space-evenly">
                     <div class="r1">

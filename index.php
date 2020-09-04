@@ -90,9 +90,12 @@
                         </div>
                         <div class="desc"></div>                     
                     </div>
-                    <div class="r3">
+                     <div class="r3">
                         <div class="icon">
                             <div class="r3-circle"></div>
+                            <div class="r3-box"></div>
+                            <div class="r3-box2"></div>
+                            <div class="r3-box3"></div>
                         </div>
                         <div class="title">
                           Less Waste Production 

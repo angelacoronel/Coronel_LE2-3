@@ -292,14 +292,7 @@ background: linear-gradient(180deg, rgba(248,91,0,1) 0%, rgba(255,255,255,1) 17%
     color: #FFF;
     font-family: 'Poppins', sans-serif;
 }
-.t1 {
-    width: 0; 
-    height: 0; 
-    border-left: 5px solid transparent;
-    border-right: 5px solid transparent;
-    
-    border-bottom: 5px solid black;
-  }
+
 
 /*footer properties*/
 .footer{

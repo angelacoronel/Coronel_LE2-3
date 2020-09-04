@@ -315,3 +315,9 @@ background: linear-gradient(180deg, rgba(248,91,0,1) 0%, rgba(255,255,255,1) 17%
     align-items: center;
     max-width: 1100px;
 }
+.footer a, .footer a:visited, .footer a:active{
+    color: white;
+}
+.footer a:hover{
+    color: #f85b00;
+}
